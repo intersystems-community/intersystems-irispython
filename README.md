@@ -1,5 +1,14 @@
 # InterSystems IRIS DB-API Community Driver
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/intersystems-community/intersystems-irispython)
+](https://github.com/intersystems-community/intersystems-irispython/releases/latest)
+
+## Install
+
+```shell
+pip install https://github.com/intersystems-community/intersystems-irispython/releases/download/3.5.0/intersystems_iris-3.5.0-py3-none-any.whl
+```
+
 ## Examples
 
 Connect to IRIS over network
