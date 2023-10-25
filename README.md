@@ -26,7 +26,7 @@ config = {
 
 with dbapi.connect(**config) as conn:
     with conn.cursor() as cursor:
-        cursor.execute("select ? as one, 2 as two")
+        cursor.execute("select ? as one, 2 as two", 1)   # second arg is parameter value
         for row in cursor:
             one, two = row
             print(f"one: {one}")
