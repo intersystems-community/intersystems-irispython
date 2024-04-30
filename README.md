@@ -1,5 +1,7 @@
 # InterSystems IRIS DB-API Community Driver
 
+## NOTE: This application is not supported by InterSystems Corporation. Please be notified that you use it at your own risk. 
+
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/intersystems-community/intersystems-irispython)
 ](https://github.com/intersystems-community/intersystems-irispython/releases/latest)
 
