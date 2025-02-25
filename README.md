@@ -8,7 +8,7 @@
 ## Install
 
 ```shell
-pip install https://github.com/intersystems-community/intersystems-irispython/releases/download/3.9.0/intersystems_iris-3.9.0-py3-none-any.whl
+pip install https://github.com/intersystems-community/intersystems-irispython/releases/download/3.9.1/intersystems_iris-3.9.1-py3-none-any.whl
 ```
 
 ## Examples
